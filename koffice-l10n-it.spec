@@ -1,5 +1,5 @@
 Name: koffice-l10n-it
-Version: 2.2.84
+Version: 2.2.91
 Release: %mkrel 1
 Summary: Language files for KOffice Italian
 Group: System/Internationalization
